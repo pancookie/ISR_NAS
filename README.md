@@ -1,5 +1,5 @@
 # ISR_NAS
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8350762.svg)](https://doi.org/10.5281/zenodo.8350762)
 
 Neural Network Models for Ionospheric Electron Density Prediction: A Neural Architecture Search Study
 
